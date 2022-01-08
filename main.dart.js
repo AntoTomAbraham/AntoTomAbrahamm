@@ -32598,7 +32598,7 @@ s=$.aD()
 r=s.gbS()
 s=s.x
 s=r.c0(0,s==null?H.a9():s)
-return M.c7(q,T.ka(H.a([T.ci(q,10,q),this.j8("Free","Free","- Add 4 youtube channels","- Add 4 youtube playlist",p),T.ci(q,20,q),this.j8("Basic","$6/year","- Add 7 youtube channels","- Add 7 youtube playlist",p),M.c7(q,q,C.j,q,20,q,q,q),this.j8("Plus","$12/year","- Add infinite youtube channels","- Add infinite youtube playlist",p),T.ci(q,10,q)],t.p),C.aR,C.fi),C.j,q,s.b*0.9+60,q,q,q)},
+return M.c7(q,T.ka(H.a([T.ci(q,10,q),this.j8("Free","Free","- Add 8 youtube channels","- Add 8 youtube playlist",p),T.ci(q,20,q),this.j8("Basic","$6/year","- Add 14 youtube channels","- Add 14 youtube playlist",p),M.c7(q,q,C.j,q,20,q,q,q),this.j8("Plus","$12/year","- Add infinite youtube channels","- Add infinite youtube playlist",p),T.ci(q,10,q)],t.p),C.aR,C.fi),C.j,q,s.b*0.9+60,q,q,q)},
 j8(a,b,c,d,e){var s,r,q,p,o=null
 $.bj()
 s=$.aD()
@@ -32618,7 +32618,7 @@ s=$.aD()
 r=s.gbS()
 s=s.x
 s=r.c0(0,s==null?H.a9():s)
-return M.c7(q,T.TH(H.a([this.j8("Free","Free","- Add 4 youtube channels","- Add 4 youtube playlist",p),this.j8("Basic","$6/year","- Add 7 youtube channels","- Add 7 youtube playlist",p),this.j8("Plus","$12/year","- Add infinite youtube channels","- Add infinite youtube playlist",p)],t.p),C.aR,C.fi,C.cG),C.j,q,s.b*0.6,q,q,q)},
+return M.c7(q,T.TH(H.a([this.j8("Free","Free","- Add 8 youtube channels","- Add 8 youtube playlist",p),this.j8("Basic","$6/year","- Add 14 youtube channels","- Add 14 youtube playlist",p),this.j8("Plus","$12/year","- Add infinite youtube channels","- Add infinite youtube playlist",p)],t.p),C.aR,C.fi,C.cG),C.j,q,s.b*0.6,q,q,q)},
 j8(a,b,c,d,e){var s,r,q,p,o=null
 $.bj()
 s=$.aD()
