@@ -28,13 +28,28 @@
 
   <title>favtube</title>
   <link rel="manifest" href="manifest.json">
+  <style>
+    .container{
+      position:absolute;
+      top:0px;
+      right:0px;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  </style>
 </head>
 <body>
+  <div id="loading_indicator" class="container">
+    <img src="./assets/loade.gif" class="indicator" alt="">
+  </div>
   <!-- This script installs service_worker.js to provide PWA functionality to
        application. For more information, see:
        https://developers.google.com/web/fundamentals/primers/service-workers -->
   <script>
-    var serviceWorkerVersion = '1326222587';
+    var serviceWorkerVersion = '3285207255';
     var scriptLoaded = false;
     function loadMainDartJs() {
       if (scriptLoaded) {
