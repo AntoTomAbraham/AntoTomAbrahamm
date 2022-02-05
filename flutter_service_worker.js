@@ -3,20 +3,25 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
+  "assets/AssetManifest.json": "1bfc8c71a61ba36f49606399586e5cd6",
+"assets/assets/adview.html": "28b9151e68839c060621f1f3a18fd290",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/loade.gif": "8a2211f360f88b1de12e63ae30e75452",
-"assets/NOTICES": "87953e5726e5382e8de3912035b96e04",
+"assets/NOTICES": "2919e114fca308471f616268c37f2e73",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/packages/flutter_inappwebview/t_rex_runner/t-rex.css": "5a8d0222407e388155d7d1395a75d5b9",
+"assets/packages/flutter_inappwebview/t_rex_runner/t-rex.html": "16911fcc170c8af1c5457940bd0bf055",
+"assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
+"assets/packages/youtube_player_flutter/assets/speedometer.webp": "50448630e948b5b3998ae5a5d112622b",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "478827f4580653e9252c46d0ca075217",
-"/": "478827f4580653e9252c46d0ca075217",
-"main.dart.js": "daae3604127c5cfd8f22dcbe801e3fe7",
+"index.html": "e85b10346428ff4378ade8913e3e3115",
+"/": "e85b10346428ff4378ade8913e3e3115",
+"main.dart.js": "6720492072181fe1bb879cb569359931",
 "manifest.json": "d88d731a841a0ebdad5969f376046591",
 "version.json": "a848300564a36d7cccdde112d0987887"
 };
